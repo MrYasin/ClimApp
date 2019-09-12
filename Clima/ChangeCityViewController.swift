@@ -28,7 +28,6 @@ class ChangeCityViewController: UIViewController {
     @IBAction func getWeatherPressed(_ sender: AnyObject) {
         
         
-        
         //1 Get the city name the user entered in the text field
         let cityName = changeCityTextField.text!
         
